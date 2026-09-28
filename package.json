@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/vaultleaf",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vault host/leaf network string helpers for config audits.",
+  "bin": {
+    "vaultleaf": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/vaultleaf.git"
+  },
+  "homepage": "https://theworker02.github.io/vaultleaf/",
+  "keywords": [
+    "vault",
+    "leaf",
+    "net",
+    "cli",
+    "toolkit"
+  ]
+}
